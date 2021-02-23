@@ -57,7 +57,7 @@ CV %>% print_skill_bars()
 if(params$pdf_mode){
   cat("View this CV online with links at _uma.cool/resume/_")
 } else {
-  cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/uhuggins/resume/raw/master/uhuggins_cv.pdf)")
+  cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/uhuggins/resume/blob/main/cv.pdf)")
 }
 ```
 
